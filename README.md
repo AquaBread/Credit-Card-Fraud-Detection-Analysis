@@ -31,7 +31,7 @@ After implementing the above methodology, the enhanced model achieved the follow
 
 The Precision-Recall curve below illustrates the trade-off between precision and recall:
 
-![Precision-Recall Curve](path_to_pr_curve_image)
+<img src="resources/images/precision_recall_curve.png" alt="Precision-Recall Curve" width="60%">
 
 ## Conclusion
 
